@@ -5,6 +5,9 @@
 # xRAI: AI-Driven Dynamic Recruitment and Candidate Evaluation
 xRAI is an innovative prototype designed to transform the recruitment process through the power of generative AI. Developed during a 10-day hackathon, xRAI is built to streamline and enhance candidate profiling, interviews, and evaluations for various job positions. By conducting dynamic, context-aware conversations, xRAI enables companies to efficiently assess candidates for technical roles, from entry-level positions to specialized fields like FinTech, blockchain, and automation.
 
+## Demo
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/thSdbbfLNLY/0.jpg)](http://www.youtube.com/watch?v=thSdbbfLNLY)
+
 ## AI-Driven Candidate Profiling
 At the heart of xRAI lies its capability to intelligently analyze candidate resumes and job listings. The AI scans each candidate’s CV, identifying key skills, projects, and experiences. It then formulates tailored, context-specific questions to delve deeper into the candidate's qualifications. For example, if a candidate lists experience with Spring Boot, xRAI might inquire about the design patterns, frameworks, or technical challenges they encountered during the project, ensuring the interview is always relevant and engaging.
 
@@ -44,6 +47,3 @@ Once the interview concludes, xRAI automatically generates a detailed interview 
 xRAI’s unique approach to recruitment is built for scalability. Whether screening for multiple roles across various departments or handling a high volume of applications, the AI model adapts and ensures each candidate is evaluated thoroughly and efficiently. With a built-in ability to process job descriptions (such as from Company Job Posting Description.csv, listing 10 job postings and multiple candidates per role), xRAI ensures a smooth, scalable process for recruiters.
 
 In essence, xRAI bridges the gap between traditional recruitment and the future of AI-driven hiring, making it an invaluable tool for companies looking to optimize their talent acquisition processes.
-
-## Demo
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/thSdbbfLNLY/0.jpg)](http://www.youtube.com/watch?v=thSdbbfLNLY)
