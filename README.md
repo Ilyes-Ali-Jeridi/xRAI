@@ -28,16 +28,23 @@ For a TechOps Automation intern position, xRAI’s interview might follow a flow
 
 Interest in Blockchain & FinTech:
 
+'''
 “What motivated you to apply for this position at BNB Chain? How does your experience align with the blockchain and cryptocurrency industry?”
 “How do you think the FinTech and blockchain ecosystems will evolve in the next 5 years, and what excites you about it?”
 Adaptability:
+'''
 
+'''
 “Can you share an experience where you had to adapt to a rapidly changing technical environment? How did you handle it?”
 “How do you prioritize tasks in a fast-paced work setting?”
 Technical Skills:
+'''
 
+'''
 “Could you describe a time when you automated a process using Python? What challenges did you face, and how would you apply that knowledge to optimize processes at BNB Chain?”
 “How would you use Jenkins and Ansible to improve automation and optimization across TechOps channels?”
+'''
+
 Data-Driven Candidate Evaluation
 Once the interview concludes, xRAI automatically generates a detailed interview script, summarizing key points, responses, and technical proficiencies demonstrated by the candidate. This allows recruiters to easily review and assess each candidate based on well-documented and data-driven criteria.
 
