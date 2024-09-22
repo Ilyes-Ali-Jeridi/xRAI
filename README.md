@@ -5,6 +5,10 @@
 # xRAI: AI-Driven Dynamic Recruitment and Candidate Evaluation
 xRAI is an innovative prototype designed to transform the recruitment process through the power of generative AI. Developed during a 10-day hackathon, xRAI is built to streamline and enhance candidate profiling, interviews, and evaluations for various job positions. By conducting dynamic, context-aware conversations, xRAI enables companies to efficiently assess candidates for technical roles, from entry-level positions to specialized fields like FinTech, blockchain, and automation.
 
+## Demo
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
+## 
+
 ## AI-Driven Candidate Profiling
 At the heart of xRAI lies its capability to intelligently analyze candidate resumes and job listings. The AI scans each candidate’s CV, identifying key skills, projects, and experiences. It then formulates tailored, context-specific questions to delve deeper into the candidate's qualifications. For example, if a candidate lists experience with Spring Boot, xRAI might inquire about the design patterns, frameworks, or technical challenges they encountered during the project, ensuring the interview is always relevant and engaging.
 
