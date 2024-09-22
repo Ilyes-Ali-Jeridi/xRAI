@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="img.jpeg">
+	<img src="img.jpeg" width = "48">
 </div>
 
 # xRAI: AI-Driven Dynamic Recruitment and Candidate Evaluation
