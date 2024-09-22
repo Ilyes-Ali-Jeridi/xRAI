@@ -46,3 +46,4 @@ xRAI’s unique approach to recruitment is built for scalability. Whether screen
 In essence, xRAI bridges the gap between traditional recruitment and the future of AI-driven hiring, making it an invaluable tool for companies looking to optimize their talent acquisition processes.
 
 ## Demo
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/thSdbbfLNLY/0.jpg)](http://www.youtube.com/watch?v=thSdbbfLNLY)
