@@ -54,8 +54,6 @@ Once the interview concludes, xRAI automatically generates a detailed interview 
 xRAI’s unique approach to recruitment is built for scalability. Whether screening for multiple roles across various departments or handling a high volume of applications, the AI model adapts and ensures each candidate is evaluated thoroughly and efficiently. With a built-in ability to process job descriptions (such as from Company Job Posting Description.csv, listing 10 job postings and multiple candidates per role), xRAI ensures a smooth, scalable process for recruiters.
 
 Here is an example of what example of job postings look like:
-<div align="center">
-	<img src="csv_data.jpeg" width = "400">
-</div>
+<img src="csv_data.jpeg" width = "1000">
 
 In essence, xRAI bridges the gap between traditional recruitment and the future of AI-driven hiring, making it an invaluable tool for companies looking to optimize their talent acquisition processes.
